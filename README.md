@@ -1,2 +1,3 @@
 # glitch-bot-altyapi
-**ayarlar.json** dosyasını düzenlemeniz yeterli ancak bu altyapı **glitch** içindir
+# Bu altyapı glitch içindir
+**ayarlar.json** dosyasını düzenlemeniz yeterli
