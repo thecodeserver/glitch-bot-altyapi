@@ -1,3 +1,2 @@
-# glitch-bot-altyapi
-# Bu altyapı glitch içindir
-**ayarlar.json** dosyasını düzenlemeniz yeterli
+# discord-altyapi
+**ayarlar.json** dosyasındaki bot bilgilerini düzenleyerek botu çalıştırabilirsiniz
